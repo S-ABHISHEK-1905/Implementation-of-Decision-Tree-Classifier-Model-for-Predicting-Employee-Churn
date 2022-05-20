@@ -57,7 +57,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![dh](di.png)
 
 ### data.head() using label encoder
-![dh](dHl.png)
+![dh](dhl.png)
 
 ### x.head()
 ![dh](x.png)
